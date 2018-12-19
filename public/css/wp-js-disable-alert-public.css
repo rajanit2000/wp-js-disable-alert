@@ -1,0 +1,7 @@
+.js-disable-container{
+	padding: 15px;
+	background: #CCC;
+}
+.js-disable-container p{
+	margin: 0px;
+}
